@@ -69,7 +69,3 @@ This file is for **quick review only**. It does not replace official documentati
 **Eng. Abdulaziz Alamri**
 
 ---
-
-## 📄 License | الرخصة
-
-[حدد الرخصة هنا - مثلاً MIT أو Creative Commons]
