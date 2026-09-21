@@ -31,8 +31,6 @@ A bilingual (English / Arabic) beginner-friendly Python quick reference guide.
 ## 📥 Download | التحميل
 
 - [Download PDF](./Python_Quick_Reference.pdf)  
-- [تحميل الملف PDF](./Python_Quick_Reference.pdf)
-
 ---
 
 ## ✨ Features | المميزات
