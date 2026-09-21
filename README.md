@@ -1,6 +1,10 @@
 # Python Quick Reference | دليل أساسيات بايثون
 
-[![PDF](https://img.shields.io/badge/Download-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Python_Quick_Reference.pdf)
+[![PDF](https://img.shields.io/badge/Download-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/amriohm/python-quick-reference/raw/main/Python_Quick_Reference.pdf)
+
+<p align="center">
+  <img src="./images/cover.png" alt="Python Quick Reference Cover" width="750"/>
+</p>
 
 A bilingual (English / Arabic) beginner-friendly Python quick reference guide.  
 دليل مراجعة سريع ثنائي اللغة (إنجليزي / عربي) للمبتدئين في لغة بايثون.
@@ -31,7 +35,18 @@ A bilingual (English / Arabic) beginner-friendly Python quick reference guide.
 ## 📥 Download | التحميل
 
 - [Download PDF](https://github.com/amriohm/python-quick-reference/raw/main/Python_Quick_Reference.pdf)  
-- [تحميل الملف PDF](https://github.com/amriohm/python-quick-reference/raw/main/Python_Quick_Reference.pdf)  
+- [تحميل الملف PDF](https://github.com/amriohm/python-quick-reference/raw/main/Python_Quick_Reference.pdf)
+
+---
+
+## 📸 Preview | معاينة
+
+<p align="center">
+  <img src="./images/page-1.png" width="45%" />
+  &nbsp;&nbsp;
+  <img src="./images/page-2.png" width="45%" />
+</p>
+
 ---
 
 ## ✨ Features | المميزات
