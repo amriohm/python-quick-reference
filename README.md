@@ -3,10 +3,6 @@
 [![PDF](https://img.shields.io/badge/Download-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/amriohm/python-quick-reference/raw/main/Python_Quick_Reference.pdf)
 
 
-<p align="center">
-  <img src="./images/Cover.png" alt="Python Quick Reference Cover" width="750"/>
-</p>
-
 A bilingual (English / Arabic) beginner-friendly Python quick reference guide.  
 دليل مراجعة سريع ثنائي اللغة (إنجليزي / عربي) للمبتدئين في لغة بايثون.
 
