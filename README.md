@@ -7,9 +7,6 @@
   <img src="./images/cover.png" alt="Python Quick Reference Cover" width="750"/>
 </p>
 
-<p align="center">
-  <img src="./images/contents.png" alt="Python Quick Reference Cover" width="750"/>
-</p>
 
 A bilingual (English / Arabic) beginner-friendly Python quick reference guide.  
 دليل مراجعة سريع ثنائي اللغة (إنجليزي / عربي) للمبتدئين في لغة بايثون.
