@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="./images/cover.png" alt="Python Quick Reference Cover" width="750"/>
+  <img src="./images/Cover.png" alt="Python Quick Reference Cover" width="750"/>
 </p>
 
 A bilingual (English / Arabic) beginner-friendly Python quick reference guide.  
